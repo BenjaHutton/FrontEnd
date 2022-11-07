@@ -38,5 +38,8 @@ main p a:hover {
     color:red;
 
 }
+p span#primer {
+    margin-left: 188px;
+}
 
 
