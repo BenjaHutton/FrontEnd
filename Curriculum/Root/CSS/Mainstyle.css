@@ -1,0 +1,79 @@
+body {
+    margin: 200px;
+    margin-top:  50px;
+    background-color: aquamarine;
+}
+header img {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+header p {
+    margin-top: 0px;
+    text-align: center;
+   font-size: smaller;
+   font-weight: lighter;
+}
+section#personal span {
+    font-weight: bold;
+    font-size: large;
+    text-transform: uppercase;
+}
+section#personal p {
+    margin:0px;
+    text-decoration: underline;
+}
+p#Deniard {
+    margin-left: 0px;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+p#FyC {
+    margin-left: 0px;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+p#MENSAJERIA {
+    margin-left: 0px;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+p#maxit {
+    margin-left: 0px;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+footer h4 {
+    background-color: blue;
+    text-align: center;
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: large;
+    
+}
+footer img {
+    width: 60px;
+    margin: 30px;
+    margin-top: 10px;
+}
+footer div {
+    display: flex;
+    justify-content: center;
+}

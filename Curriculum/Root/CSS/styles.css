@@ -1,0 +1,42 @@
+body {
+margin: 200px;
+margin-top: 0%;
+background-color: aquamarine;
+}
+header.titulo img{
+    width: 100px;
+display: flex;
+justify-content: center;
+margin: auto;
+}
+header.titulo h3 {
+    font-weight: bold;
+    text-decoration: overline;
+    text-align: center;
+
+}
+header.titulo h1 {
+    text-align: center;
+    text-decoration: underline;
+    
+}
+main span.sobremi{
+    font-size: 40px;
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+main span {
+    font-size: 23px;
+    font-weight: bold;
+}
+main p {
+    letter-spacing: 2px;
+
+}
+main p a:hover {
+    color:red;
+
+}
+
+
